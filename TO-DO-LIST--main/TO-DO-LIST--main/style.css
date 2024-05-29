@@ -158,7 +158,7 @@ header .input-section {
 }
 
 
-/*buttons styling*/
+/buttons styling/
 .btn{
     cursor: pointer;
     user-select: none;
@@ -189,7 +189,6 @@ header .input-section {
     background-color: rgb(108, 109, 110);
     color: white;
 }
-
 
 .btn-add{
     background-color: green;
@@ -264,13 +263,11 @@ dropdown*/
     color: yellowgreen;
   }
 
-
-
 /* Responsive */
 @media only screen and (max-width: 530px) {
     .container {
         margin: 0 20px;
         max-width: 96%;
-        min-width: 96%;
-    }
+        min-width: 96%;
+    }
 }
